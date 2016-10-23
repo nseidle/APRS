@@ -1,6 +1,8 @@
 APRS Entry for 2016 SparkFun AVC
 ===========================================================
 
+![Nathan in a A+PRS vehicle](https://raw.githubusercontent.com/nseidle/APRS/master/Contemplation-M.jpg)
+
 This repo contains all the code and PCB layouts used on the A+PRS vehicle Alicia and I entered in the 2016 SparkFun AVC.
 
 Repository Contents
